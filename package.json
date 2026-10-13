@@ -1,0 +1,13 @@
+{
+  "name": "internroll-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend recovered from the provided Internroll page source, plus a demo Express API scaffold.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
